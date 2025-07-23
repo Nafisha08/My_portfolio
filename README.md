@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # My_portfolio
 =======
 # NAFISHA ASLAM Portfolio Website 🌐
@@ -46,3 +47,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[NAFISHA ASLAM](https://github.com/Nafisha08/html-and-css-project-1.git))` ! Happy coding!**
 >>>>>>> e60732e (main)
+=======
+# My_portfolio
+>>>>>>> d37a1efa03b75343a6ca7b3cabda01da9d676e24
